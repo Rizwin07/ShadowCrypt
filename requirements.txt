@@ -1,0 +1,8 @@
+Python Libraries
+
+pillow>=10.0.0
+cryptography>=42.0.0
+rich>=13.0.0
+
+
+
